@@ -41,7 +41,6 @@
              clone-depth="1" />
 
     <!-- Extra Pack -->
-    <remove-project name="yaap/android_packages_apps_KProfiles" />
     <project path="packages/apps/KProfiles"
              name="sm8635-dev/packages_apps_KProfiles"
              remote="rem"
