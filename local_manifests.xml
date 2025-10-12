@@ -3,50 +3,51 @@
     <remote name="rem"
             fetch="https://github.com" />
 
-    <!-- Temel Peridot repoları -->
+    <!-- Basic Repositories -->
     <project path="device/xiaomi/peridot"
-             name="DarkKiller28/android_device_xiaomi_peridot"
+             name="sm8635-dev/device_xiaomi_peridot"
              remote="rem"
-             revision="yaap"
+             revision="yaap-16"
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="DarkKiller28/proprietary_vendor_xiaomi_peridot"
+             name="sm8635-dev/vendor_xiaomi_peridot"
              remote="rem"
              revision="lineage-23.0"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635"
-             name="peridot-dev/android_kernel_xiaomi_sm8635"
+             name="sm8635-dev/kernel_xiaomi_sm8635"
              remote="rem"
              revision="lineage-23.0"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-modules"
-             name="peridot-dev/android_kernel_xiaomi_sm8635-modules"
+             name="sm8635-dev/kernel_xiaomi_sm8635-modules"
              remote="rem"
              revision="lineage-23.0"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-devicetrees"
-             name="peridot-dev/android_kernel_xiaomi_sm8635-devicetrees"
+             name="sm8635-dev/kernel_xiaomi_sm8635-devicetrees"
              remote="rem"
              revision="lineage-23.0"
              clone-depth="1" />
 
     <project path="hardware/xiaomi"
-             name="peridot-dev/android_hardware_xiaomi"
+             name="sm8635-dev/hardware_xiaomi"
              remote="rem"
              revision="lineage-23.0"
              clone-depth="1" />
 
-    <!-- Ekstra Packs & MIUICamera -->
-    <project path="packages/apps/XiaomiDolby"
-             name="loonage/android_packages_apps_XiaomiDolby"
+    <!-- Extra Pack -->
+    <project path="packages/apps/KProfiles"
+             name="sm8635-dev/packages_apps_KProfiles"
              remote="rem"
-             revision="lineage-22.2"
+             revision="lineage-23.0"
              clone-depth="1" />
 
+    <!-- MIUI Camera -->
     <project path="device/xiaomi/peridot-miuicamera"
              name="sm8635-dev/device_xiaomi_peridot-miuicamera"
              remote="rem"
