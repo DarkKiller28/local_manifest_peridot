@@ -11,9 +11,9 @@
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="DarkKiller28/proprietary_vendor_xiaomi_peridot"
+             name="DarkKiller28/vendor_xiaomi_peridot"
              remote="rem"
-             revision="lineage-23.2"
+             revision="16.2"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635"
