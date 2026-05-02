@@ -36,10 +36,4 @@
              revision="lineage-23.2"
              clone-depth="1" />
 
-    <project path="hardware/xiaomi"
-             name="ryznstk/hardware_xiaomi_los"
-             remote="rem"
-             revision="lineage-23.2"
-             clone-depth="1" />
-
 </manifest>
