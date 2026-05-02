@@ -36,4 +36,9 @@
              revision="lineage-23.2"
              clone-depth="1" />
 
+    <project path="hardware/xiaomi"
+             name="peridot-dev/android_hardware_xiaomi"
+             remote="rem"
+             revision="lineage-23.2"
+             clone-depth="1" />
 </manifest>
