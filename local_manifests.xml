@@ -2,7 +2,9 @@
 <manifest>
     <remote name="rem"
             fetch="https://github.com" />
-
+    <remote name="gitlab"
+            fetch="https://gitlab.com" />
+    
     <!-- Peridot Repos -->
     <project path="device/xiaomi/peridot"
              name="DarkKiller28/android_device_xiaomi_peridot"
@@ -11,8 +13,8 @@
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="DarkKiller28/proprietary_vendor_xiaomi_peridot"
-             remote="rem"
+             name="AdarshGrewal/proprietary_vendor_xiaomi_peridot"
+             remote="gitlab"
              revision="lineage-23.2"
              clone-depth="1" />
 
