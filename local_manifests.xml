@@ -19,25 +19,25 @@
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635"
-             name="peridot-dev/android_kernel_xiaomi_sm8635"
+             name="LineageOS/android_kernel_xiaomi_sm8635"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-modules"
-             name="peridot-dev/android_kernel_xiaomi_sm8635-modules"
+             name="LineageOS/android_kernel_xiaomi_sm8635-modules"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-devicetrees"
-             name="peridot-dev/android_kernel_xiaomi_sm8635-devicetrees"
+             name="LineageOS/android_kernel_xiaomi_sm8635-devicetrees"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
 
     <project path="hardware/xiaomi"
-             name="peridot-dev/android_hardware_xiaomi"
+             name="LineageOS/android_hardware_xiaomi"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
