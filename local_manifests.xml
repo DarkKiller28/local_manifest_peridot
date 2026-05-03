@@ -13,7 +13,7 @@
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="AdarshGrewal/proprietary_vendor_xiaomi_peridot"
+             name="blu/proprietary_vendor_xiaomi_perid0t"
              remote="gitlab"
              revision="lineage-23.2"
              clone-depth="1" />
@@ -37,7 +37,7 @@
              clone-depth="1" />
 
     <project path="hardware/xiaomi"
-             name="LineageOS/android_hardware_xiaomi"
+             name="ryznstk/hardware_xiaomi_los"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
