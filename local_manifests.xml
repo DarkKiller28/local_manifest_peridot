@@ -34,6 +34,13 @@
              revision="lineage-23.2"
              clone-depth="1" />
 
+    <project path="packages/apps/DolbyAtmos"
+             name="PixelOS-AOSP/android_packages_apps_DolbyAtmos"
+             remote="rem"
+             revision="sixteen-qpr2"
+             clone-depth="1" />
+    
+    
     <project path="hardware/xiaomi"
              name="NotBlazeee28/hardware_xiaomi"
              remote="rem"
