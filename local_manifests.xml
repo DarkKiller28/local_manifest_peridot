@@ -42,7 +42,7 @@
     
     
     <project path="hardware/xiaomi"
-             name="NotBlazeee28/hardware_xiaomi"
+             name="LineageOS/android_hardware_xiaomi"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
