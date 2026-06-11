@@ -59,10 +59,4 @@
              remote="rem"
              revision="16.2"
             clone-depth="1" />
-
-<project path="packages/apps/KProfiles"
-             name="yaap/packages_apps_KProfiles"
-             remote="rem"
-             revision="sixteen"
-             clone-depth="1" />
 </manifest>
