@@ -5,19 +5,19 @@
 
     <!-- Peridot Repos -->
     <project path="device/xiaomi/peridot"
-             name="DarkKiller28/android_device_xiaomi_peridot"
+             name="AetheriaOS-Devices/android_device_xiaomi_peridot"
              remote="rem"
              revision="aetheria-16-micam"
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="DarkKiller28/vendor_xiaomi_peridot"
+             name="AetheriaOS-Devices/vendor_xiaomi_peridot"
              remote="rem"
              revision="lineage-23.2-micam"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635"
-             name="DarkKiller28/android_kernel_xiaomi_sm8635"
+             name="AetheriaOS-Devices/android_kernel_xiaomi_sm8635"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
@@ -42,7 +42,7 @@
     
     
     <project path="hardware/xiaomi"
-             name="DarkKiller28/android_hardware_xiaomi"
+             name="AetheriaOS-Devices/android_hardware_xiaomi"
              remote="rem"
              revision="lineage-23.2"
              clone-depth="1" />
