@@ -2,7 +2,9 @@
 <manifest>
     <remote name="rem"
             fetch="https://github.com" />
-
+    <remote name="rem"
+            fetch="https://gitlab.com" />
+    
     <!-- Peridot Repos -->
     <project path="device/xiaomi/peridot"
              name="AetheriaOS-Devices/android_device_xiaomi_peridot"
@@ -55,7 +57,7 @@
 
 
     <project path="vendor/xiaomi/peridot-miuicamera"
-             name="AetheriaOS-Devices/proprietary_vendor_xiaomi_peridot-miuicamera"
+             name="ReversedRuler-Space/proprietary_vendor_xiaomi_peridot-miuicamera"
              remote="rem"
              revision="aetheria-1.0"
             clone-depth="1" />
