@@ -56,6 +56,6 @@
              name="GuidixX/vendor_xiaomi_peridot-miuicamera"
              remote="rem"
              revision="16.2"
-            clone-depth="1" />
+             clone-depth="1" />
     
 </manifest>
