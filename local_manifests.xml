@@ -11,7 +11,7 @@
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="DarkKiller28/android_vendor_xiaomi_peridot"
+             name="DarkKiller28/vendor_xiaomi_peridot"
              remote="rem"
              revision="lineage-23.2-micam"
              clone-depth="1" />
