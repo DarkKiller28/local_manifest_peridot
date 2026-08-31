@@ -2,18 +2,20 @@
 <manifest>
     <remote name="rem"
             fetch="https://github.com" />
+    <remote name="rem"
+            fetch="https://gitlab.com" />
 
     <!-- Peridot Repos -->
     <project path="device/xiaomi/peridot"
              name="DarkKiller28/android_device_xiaomi_peridot"
              remote="rem"
-             revision="lunaris-16.2"
+             revision="rising-17"
              clone-depth="1" />
 
     <project path="vendor/xiaomi/peridot"
-             name="DarkKiller28/vendor_xiaomi_peridot"
+             name="ReversedRuler-Space/proprietary-vendor-xiaomi-peridot"
              remote="rem"
-             revision="lineage-23.2-micam"
+             revision="seventeen"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635"
