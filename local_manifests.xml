@@ -19,7 +19,7 @@
     <project path="kernel/xiaomi/sm8635"
              name="DarkKiller28/android_kernel_xiaomi_sm8635"
              remote="rem"
-             revision="lineage-23.2"
+             revision="lineage-23.2-kprofile"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-modules"
