@@ -64,6 +64,6 @@
 
   <remove-project name="build_soong" />
 
-  <project name="yaap-17-stone/build_soong" path="build/soong" remote="github" revision="seventeen" />
+  <project name="DarkKiller28/android_build_soong" path="build/soong" remote="github" revision="seventeen" />
     
 </manifest>
