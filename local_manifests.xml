@@ -61,4 +61,9 @@
              remote="rem"
              revision="16.2"
             clone-depth="1" />
+
+  <remove-project name="build_soong" />
+
+  <project name="yaap-17-stone/build_soong" path="build/soong" remote="github" revision="seventeen" />
+    
 </manifest>
