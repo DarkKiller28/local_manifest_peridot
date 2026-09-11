@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="rem"
+    <remote name="github"
             fetch="https://github.com" />
-    <remote name="rem"
+    <remote name="gitlab"
             fetch="https://gitlab.com" />
 
+    <remote name="custom"
+        fetch="https://github.com" />
+    
     <!-- Peridot Repos -->
     <project path="device/xiaomi/peridot"
              name="DarkKiller28/android_device_xiaomi_peridot"
@@ -62,8 +65,13 @@
              revision="16.2"
             clone-depth="1" />
 
-  <remove-project name="build_soong" />
 
-  <project name="DarkKiller28/android_build_soong" path="build/soong" remote="github" revision="seventeen" />
+    <remove-project name="build_soong" />
+
+    <project path="build/soong"
+             name="DarkKiller28/android_build_soong"
+             remote="custom"
+             revision="seventeen"
+            clone-depth="1" />
     
 </manifest>
