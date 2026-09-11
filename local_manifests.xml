@@ -4,7 +4,6 @@
             fetch="https://github.com" />
     <remote name="gitlab"
             fetch="https://gitlab.com" />
-
     <remote name="custom"
         fetch="https://github.com" />
     
