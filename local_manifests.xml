@@ -4,8 +4,6 @@
             fetch="https://github.com" />
     <remote name="gitlab"
             fetch="https://gitlab.com" />
-    <remote name="custom"
-            fetch="https://github.com" />
     
     <!-- Peridot Repos -->
     <project path="device/xiaomi/peridot"
@@ -69,7 +67,7 @@
 
     <project path="build/soong"
              name="DarkKiller28/android_build_soong"
-             remote="custom"
+             remote="github"
              revision="seventeen"
             clone-depth="1" />
     
