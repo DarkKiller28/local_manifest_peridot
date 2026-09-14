@@ -60,13 +60,4 @@
              revision="16.2"
             clone-depth="1" />
 
-
-    <remove-project name="build_soong" />
-
-    <project path="build/soong"
-             name="DarkKiller28/android_build_soong"
-             remote="rem"
-             revision="seventeen"
-            clone-depth="1" />
-    
 </manifest>
